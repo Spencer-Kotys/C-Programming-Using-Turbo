@@ -57,4 +57,50 @@ Code from the book C Programming Using Turbo C++
   Page 35
   
   ` The winning time in heat C of event 5 was 27.250000.`
+  
+  ### event3.c
+  
+  Page 36
+  
+  ` The winning time in heat C of event 5 was 27.25. `
+  
+  ### field.c
+  
+  Page 37
+  
+  ` 3.0 12.5 523.3 `
+  
+  `300.0 1200.5 5300.3 `
+  
+  ### field2.c
+  
+  Page 37
+  
+  ### field3.c
+  
+  Page 39
+  
+  ### tabtest.c
+  
+  Page 39
+  
+  ### charbox.c
+  
+  Page 41
+  
+  ### box6char.c
+  
+  Page 41
+  
+  ### agc.c
+  
+  Page 43
+  
+  ### event4.c
+  
+  Page 44
+  
+  ### addrtest.c
+  
+  Page 46
 </details>
