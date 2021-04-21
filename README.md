@@ -23,7 +23,7 @@ Venus is 67 million miles
 
 from the sun.
 
-### [sayjay.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/SAYJAY.C)
+### [sayjay.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter1/SAYJAY.C)
 
 Page 22
 
