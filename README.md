@@ -9,7 +9,7 @@ Page 9
 
 I charge thee, speak!
 
-### [printwo.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/PRINTWO.C)
+### [printwo.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter1/PRINTWO.C)
 
 Page 20
 
