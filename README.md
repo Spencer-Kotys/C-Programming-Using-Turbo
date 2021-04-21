@@ -37,3 +37,12 @@ Code from the book C Programming Using Turbo C++
   I charge thee, speak!
 
 </details>
+<details>
+  <summary>Chapter 2</summary>
+  
+  ### [var.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter2/VAR.C)
+  
+  ### [event.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter2/EVENT.C)
+  
+  ### [event2.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter2/EVENT2.C)
+</details>
