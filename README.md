@@ -29,7 +29,7 @@ Page 22
 
 The letter j is pronounced jay.
 
-### [oneline2.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/ONELINE2.C)
+### [oneline2.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter1/ONELINE2.C)
 
 Page 24
 
