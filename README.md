@@ -3,7 +3,7 @@ Code from the book C Programming Using Turbo C++
 
 ## Chapter 1
 
-### [oneline.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/ONELINE.C)
+### [oneline.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter1/ONELINE.C)
 
 Page 9
 
