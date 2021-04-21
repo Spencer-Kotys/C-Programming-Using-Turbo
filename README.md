@@ -15,7 +15,7 @@ Page 20
 
 This is the number two: 2
 
-### [venus.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/VENUS.C)
+### [venus.c](https://github.com/Spencer-Kotys/C-Programming-Using-Turbo/blob/main/Chapter1/VENUS.C)
 
 Page 21
 
