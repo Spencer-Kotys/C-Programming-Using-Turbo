@@ -58,7 +58,7 @@ Code from the book C Programming Using Turbo C++
   
   ` The winning time in heat C of event 5 was 27.250000.`
   
-  ### event3.c
+  ### [event3.c](./Chapter2/EVENT3.C)
   
   Page 36
   
