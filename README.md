@@ -92,7 +92,7 @@ Code from the book C Programming Using Turbo C++
   
   Page 41
   
-  ### [agc.c](./Chapter2/AGC.C)
+  ### [age.c](./Chapter2/AGE.C)
   
   Page 43
   
