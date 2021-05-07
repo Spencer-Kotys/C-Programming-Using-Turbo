@@ -8,33 +8,33 @@ Code from the book C Programming Using Turbo C++
 
   Page 9
 
-  I charge thee, speak!
+  ``I charge thee, speak!``
 
   ### [printwo.c](./Chapter1/PRINTWO.C)
 
   Page 20
 
-  This is the number two: 2
+  ``This is the number two: 2``
 
   ### [venus.c](./Chapter1/VENUS.C)
 
   Page 21
 
-  Venus is 67 million miles
+  ``Venus is 67 million miles``
 
-  from the sun.
+ ``from the sun.``
 
   ### [sayjay.c](./Chapter1/SAYJAY.C)
 
   Page 22
 
-  The letter j is pronounced jay.
+  ``The letter j is pronounced jay.``
 
   ### [oneline2.c](./Chapter1/ONELINE2.C)
 
   Page 24
 
-  I charge thee, speak!
+ `` I charge thee, speak!``
 
 </details>
 <details>
