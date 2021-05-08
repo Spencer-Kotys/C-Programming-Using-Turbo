@@ -94,6 +94,11 @@ Code from the book C Programming Using Turbo C++
   
   Page 39
   
+  ```
+  Each    word    is
+  tabbed  over    once
+  ```
+  
   ### [charbox.c](./Chapter2/CHARBOX.C)
   
   Page 41
