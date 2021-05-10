@@ -1,5 +1,7 @@
 # C-Programming-Using-Turbo
-Code from the book C Programming Using Turbo C++ 
+Programs from the book C Programming Using Turbo C++, arranged by chapter, whith page number and output.
+
+Programs verified using Turbo C++ on Windows 10 using a DOS Box. Download [here](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/)
 
 <details>
   <summary>Chapter 1</summary>
