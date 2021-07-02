@@ -87,6 +87,11 @@ Code from the book C Programming Using Turbo C++
 
   Page 39
 
+  ```
+  3.0   12.5   523.3
+  300.0 1200.5 5300.3
+  ```
+
   ### [tabtest.c](./Chapter2/TABTEST.C)
 
   Page 39
