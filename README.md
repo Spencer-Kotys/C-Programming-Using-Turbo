@@ -22,7 +22,6 @@ Code from the book C Programming Using Turbo C++
 
   ```
   Venus is 67 million miles
-
   from the sun.
   ```
 
@@ -72,13 +71,17 @@ Code from the book C Programming Using Turbo C++
 
   ```
   3.0 12.5 523.3
-
   300.0 1200.5 5300.3
   ```
 
   ### [field2.c](./Chapter2/FIELD2.C)
 
   Page 37
+
+  ```
+    3.0   12.5  523.3
+  300.0 1200.5 5300.3
+  ```
 
   ### [field3.c](./Chapter2/FIELD3.C)
 
